@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WIFI</string>
+
+    <string name="open_wlan">Wi-Fi</string>
+    <string name="wifi_hotspot">无线热点设置...</string>
+    <string name="wireless">无线热点</string>
+    <string name="open_wireless">开启WIFI热点</string>
+    <string name="close_wireless">关闭WIFI热点</string>
+    <string name="wifi_list_closed">请打开wifi</string>
+    <string name="wifi_enable_openning">wifi正在打开，请稍后...</string>
+    <string name="set_wireless">设置WLAN热点</string>
+    <string name="net_ssid">网络SSID</string>
+    <string name="save">保存</string>
+    <string name="password_tips">密码至少应包含8个字符</string>
+    <string name="wlan_net">WLAN网络</string>
+    <string name="signal_strength">信号强度</string>
+    <string name="security_level">安全性</string>
+    <string name="password">密码</string>
+    <string name="show_password">显示密码</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">忘记</string>
+    <string name="cancel">取消</string>
+    <string name="conn_status">连接状态</string>
+    <string name="ip_address">IP地址</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="popup_title_color">#ffc9cdd1</color>
+    <color name="advance_setting_item_bg">#ffffff</color>
+    <color name="light_blue">#33b5e5</color>
+    <color name="transparent">#FF1B2E4A</color>
+    <color name="textdec">#f18c14</color>
+    <!--<color name="dialog_color">#FF1E5378</color>-->
+    <color name="dialog_color">#1382cf</color>
+    <color name="light_white">#FFF8F8F8</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+</resources>
